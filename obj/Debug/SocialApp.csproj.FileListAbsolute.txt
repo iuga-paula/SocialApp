@@ -1,0 +1,242 @@
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\ApplicationInsights.config
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\SocialApp.dll.config
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\SocialApp.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\SocialApp.pdb
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Antlr3.Runtime.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\EntityFramework.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\EntityFramework.SqlServer.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.AI.Agent.Intercept.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.AI.DependencyCollector.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.AI.Web.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.AI.WindowsServer.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.ApplicationInsights.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.Google.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.Web.Infrastructure.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Newtonsoft.Json.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Owin.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\System.Web.Helpers.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\System.Web.Mvc.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\System.Web.Optimization.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\System.Web.Razor.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\System.Web.WebPages.Deployment.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\System.Web.WebPages.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\System.Web.WebPages.Razor.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\WebGrease.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\System.Web.Helpers.xml
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\System.Web.Mvc.xml
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\System.Web.Optimization.xml
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\System.Web.Razor.xml
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\System.Web.WebPages.xml
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\System.Web.WebPages.Deployment.xml
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\System.Web.WebPages.Razor.xml
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Antlr3.Runtime.pdb
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Newtonsoft.Json.xml
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\EntityFramework.xml
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\EntityFramework.SqlServer.xml
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.xml
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.xml
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.Google.xml
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.ApplicationInsights.xml
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.AI.DependencyCollector.xml
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.AI.WindowsServer.xml
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\Microsoft.AI.Web.xml
+D:\My files\Programs\Social App\SocialApp\SocialApp\obj\Debug\SocialApp.csprojResolveAssemblyReference.cache
+D:\My files\Programs\Social App\SocialApp\SocialApp\obj\Debug\SocialApp.csproj.CoreCompileInputs.cache
+D:\My files\Programs\Social App\SocialApp\SocialApp\obj\Debug\SocialApp.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\obj\Debug\SocialApp.pdb
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\System.Net.Http.Formatting.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\System.Web.Http.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\System.Web.Http.WebHost.dll
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\System.Net.Http.Formatting.xml
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\System.Web.Http.xml
+D:\My files\Programs\Social App\SocialApp\SocialApp\bin\System.Web.Http.WebHost.xml
+D:\My files\Programs\Social App\SocialApp\SocialApp\obj\Debug\SocialApp.Migrations.InitialMigration.resources
+D:\My files\Programs\Social App\SocialApp\SocialApp\obj\Debug\SocialApp.csproj.GenerateResource.Cache
+D:\My files\Programs\Social App\SocialApp\SocialApp\obj\Debug\SocialApp.Migrations.TestMigration.resources
+D:\My files\Programs\Social App\SocialApp\SocialApp\obj\Debug\SocialApp.Migrations.makemessagecontentrequired.resources
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\ApplicationInsights.config
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\SocialApp.dll.config
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\SocialApp.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\SocialApp.pdb
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Antlr3.Runtime.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\EntityFramework.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\EntityFramework.SqlServer.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.AI.Agent.Intercept.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.AI.DependencyCollector.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.AI.Web.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.AI.WindowsServer.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.ApplicationInsights.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.Google.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.Web.Infrastructure.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Newtonsoft.Json.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Owin.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\System.Net.Http.Formatting.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\System.Web.Helpers.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\System.Web.Http.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\System.Web.Http.WebHost.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\System.Web.Mvc.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\System.Web.Optimization.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\System.Web.Razor.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\System.Web.WebPages.Deployment.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\System.Web.WebPages.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\System.Web.WebPages.Razor.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\WebGrease.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\System.Net.Http.Formatting.xml
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\System.Web.Http.xml
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\System.Web.Http.WebHost.xml
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\System.Web.Helpers.xml
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\System.Web.Mvc.xml
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\System.Web.Optimization.xml
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\System.Web.Razor.xml
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\System.Web.WebPages.xml
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\System.Web.WebPages.Deployment.xml
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\System.Web.WebPages.Razor.xml
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Antlr3.Runtime.pdb
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Newtonsoft.Json.xml
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\EntityFramework.xml
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\EntityFramework.SqlServer.xml
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.xml
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.xml
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.Google.xml
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.ApplicationInsights.xml
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.AI.DependencyCollector.xml
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.AI.WindowsServer.xml
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\bin\Microsoft.AI.Web.xml
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\obj\Debug\SocialApp.csprojAssemblyReference.cache
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\obj\Debug\SocialApp.Migrations.InitialMigration.resources
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\obj\Debug\SocialApp.Migrations.TestMigration.resources
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\obj\Debug\SocialApp.Migrations.makemessagecontentrequired.resources
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\obj\Debug\SocialApp.csproj.GenerateResource.cache
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\obj\Debug\SocialApp.csproj.CopyComplete
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\obj\Debug\SocialApp.dll
+D:\My files\Programs\Pentalog\Social App\SocialApp\SocialApp\obj\Debug\SocialApp.pdb
+D:\documente\Social App\SocialApp\SocialApp\bin\ApplicationInsights.config
+D:\documente\Social App\SocialApp\SocialApp\bin\SocialApp.dll.config
+D:\documente\Social App\SocialApp\SocialApp\bin\SocialApp.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\SocialApp.pdb
+D:\documente\Social App\SocialApp\SocialApp\bin\Antlr3.Runtime.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\EntityFramework.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\EntityFramework.SqlServer.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.AI.Agent.Intercept.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.AI.DependencyCollector.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.AI.Web.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.AI.WindowsServer.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.ApplicationInsights.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.Google.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.Web.Infrastructure.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\Newtonsoft.Json.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\Owin.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\System.Net.Http.Formatting.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\System.Web.Helpers.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\System.Web.Http.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\System.Web.Http.WebHost.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\System.Web.Mvc.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\System.Web.Optimization.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\System.Web.Razor.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\System.Web.WebPages.Deployment.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\System.Web.WebPages.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\System.Web.WebPages.Razor.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\WebGrease.dll
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\documente\Social App\SocialApp\SocialApp\bin\System.Net.Http.Formatting.xml
+D:\documente\Social App\SocialApp\SocialApp\bin\System.Web.Http.xml
+D:\documente\Social App\SocialApp\SocialApp\bin\System.Web.Http.WebHost.xml
+D:\documente\Social App\SocialApp\SocialApp\bin\System.Web.Helpers.xml
+D:\documente\Social App\SocialApp\SocialApp\bin\System.Web.Mvc.xml
+D:\documente\Social App\SocialApp\SocialApp\bin\System.Web.Optimization.xml
+D:\documente\Social App\SocialApp\SocialApp\bin\System.Web.Razor.xml
+D:\documente\Social App\SocialApp\SocialApp\bin\System.Web.WebPages.xml
+D:\documente\Social App\SocialApp\SocialApp\bin\System.Web.WebPages.Deployment.xml
+D:\documente\Social App\SocialApp\SocialApp\bin\System.Web.WebPages.Razor.xml
+D:\documente\Social App\SocialApp\SocialApp\bin\Antlr3.Runtime.pdb
+D:\documente\Social App\SocialApp\SocialApp\bin\Newtonsoft.Json.xml
+D:\documente\Social App\SocialApp\SocialApp\bin\EntityFramework.xml
+D:\documente\Social App\SocialApp\SocialApp\bin\EntityFramework.SqlServer.xml
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.xml
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.xml
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.Google.xml
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.ApplicationInsights.xml
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.AI.DependencyCollector.xml
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.AI.WindowsServer.xml
+D:\documente\Social App\SocialApp\SocialApp\bin\Microsoft.AI.Web.xml
+D:\documente\Social App\SocialApp\SocialApp\obj\Debug\SocialApp.csprojResolveAssemblyReference.cache
+D:\documente\Social App\SocialApp\SocialApp\obj\Debug\SocialApp.Migrations.InitialMigration.resources
+D:\documente\Social App\SocialApp\SocialApp\obj\Debug\SocialApp.Migrations.TestMigration.resources
+D:\documente\Social App\SocialApp\SocialApp\obj\Debug\SocialApp.Migrations.makemessagecontentrequired.resources
+D:\documente\Social App\SocialApp\SocialApp\obj\Debug\SocialApp.csproj.GenerateResource.Cache
+D:\documente\Social App\SocialApp\SocialApp\obj\Debug\SocialApp.dll
+D:\documente\Social App\SocialApp\SocialApp\obj\Debug\SocialApp.pdb
