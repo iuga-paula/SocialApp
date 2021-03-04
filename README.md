@@ -13,3 +13,9 @@ Once you are logged in you can see your friends (and their messages), and you ca
 ## Tehnologies
 
 ## Files
+
+## Demos
+![Home_page](https://github.com/iuga-paula/SocialApp/blob/Demos-%26%26-screenshots/Home_page.JPG)
+![Recommendations](https://github.com/iuga-paula/SocialApp/blob/Demos-%26%26-screenshots/Recommendations.JPG)
+![Chat_page](https://github.com/iuga-paula/SocialApp/blob/Demos-%26%26-screenshots/Chat.JPG)
+![Welcome_page](https://github.com/iuga-paula/SocialApp/blob/Demos-%26%26-screenshots/Welcome_page.JPG)
