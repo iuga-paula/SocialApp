@@ -1,5 +1,5 @@
-## ConnectedToYou - SocialAPP
-# _The whole world will be 'connectedToYou'_
+# ConnectedToYou - SocialAPP
+## _The whole world will be 'connectedToYou'_
 A simple social app like facebook where you can make friends and text them.
 
 ## Description
