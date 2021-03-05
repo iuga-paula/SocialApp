@@ -10,7 +10,7 @@ Once you are logged in you can see your friends (and their messages), and you ca
 4 members + 1 mentor
 pair programming
 
-## Tehnologies
+## Technologies
 This is an ASP.net MVC project  made in Visual Studio.
 * Entity Framework (code first)
 * Identity Framework (used for users && log in\log out sessions)
