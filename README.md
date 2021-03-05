@@ -22,7 +22,7 @@ This is an ASP.net MVC project  made in Visual Studio.
 * Bitbucket
 
 ## Conceptual Diagram
-![DC](https://github.com/iuga-paula/Personality_type_app/blob/Photos/Conceptual_Diagram.jpg)
+![DC](https://github.com/iuga-paula/SocialApp/blob/Demos-%26%26-screenshots/DC.JPG)
 
 ## Files
 * [Controllers](https://github.com/iuga-paula/SocialApp/tree/master/Controllers) -  Back-End
