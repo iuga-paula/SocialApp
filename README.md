@@ -27,7 +27,7 @@ This is an ASP.net MVC project  made in Visual Studio.
 ## Files
 * [Controllers](https://github.com/iuga-paula/SocialApp/tree/master/Controllers) -  Back-End
 * [Views](https://github.com/iuga-paula/SocialApp/tree/master/Views) - Front-End
-* [Models](https://github.com/iuga-paula/SocialApp/tree/master/Models) - each one is an entity. Using Entity framework after migrations they generated the specific tables in the database (code first).
+* [Models](https://github.com/iuga-paula/SocialApp/tree/master/Models) - each one is an entity. Using Entity framework and migrations all the tables in the database were genereted based on those models (code first).
 
 ## Demos
 ![Home_page](https://github.com/iuga-paula/SocialApp/blob/Demos-%26%26-screenshots/Home_page.JPG)
