@@ -10,13 +10,24 @@ Once you are logged in you can see your friends (and their messages), and you ca
 4 members + 1 mentor
 pair programming
 
-## Conceptual Diagram
-
 ## Tehnologies
 This is an ASP.net MVC project  made in Visual Studio.
-* 
+* Entity Framework (code first)
+* Identity Framework (used for users && log in\log out sessions)
+* C#
+* JavaScript
+* Css
+* Bootstrap
+* Html
+* Bitbucket
+
+## Conceptual Diagram
+![DC](https://github.com/iuga-paula/Personality_type_app/blob/Photos/Conceptual_Diagram.jpg)
 
 ## Files
+* [Controllers](https://github.com/iuga-paula/SocialApp/tree/master/Controllers) -  Back-End
+* [Views](https://github.com/iuga-paula/SocialApp/tree/master/Views) - Front-End
+* [Models](https://github.com/iuga-paula/SocialApp/tree/master/Models) - each one is an entity. Using Entity framework after migrations they generated the specific tables in the database (code first).
 
 ## Demos
 ![Home_page](https://github.com/iuga-paula/SocialApp/blob/Demos-%26%26-screenshots/Home_page.JPG)
